@@ -7,7 +7,7 @@ public class AreaOfRectangle {
 
         Scanner input = new Scanner(System.in);
 
-        // area of  rectangle  = (  width * length ) / 2
+        // area of  rectangle  = (  width * length )
 
         double ans , width = input.nextDouble() , length = input.nextDouble();
 
